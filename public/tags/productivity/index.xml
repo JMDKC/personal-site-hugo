@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Joseph Clift</title>
+    <link>https://josephclift.com/tags/productivity/</link>
+    <description>Recent content in Productivity on Joseph Clift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://josephclift.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four steps to clean cleaning</title>
+      <link>https://josephclift.com/writing/clean-cleaning/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/clean-cleaning/</guid>
+      <description>I made some changes to the way I clean my flat a couple of months ago: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s as clean as before, I&amp;rsquo;ve reduced the environmental impact of my cleaning and I’ll save money over the long term.
+While some of the new products and techniques were more successful than others, overall I haven’t looked back from making the change.</description>
+    </item>
+    
+    <item>
+      <title>Epic documentation</title>
+      <link>https://josephclift.com/writing/epic-documentation/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/epic-documentation/</guid>
+      <description>It’s right there in the Agile Manifesto: today’s product teams should prioritise “working software over comprehensive documentation”.
+A nice thought. But having notched up several years of working with Agile teams, I feel like these five words have led to an unfortunate belief taking hold among certain zealots: that we don’t need documentation at all!
+Which is nonsense. We need the leanest, briefest, most maintainable documentation possible. But we need documentation all the same.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Stop being a Product Martyr! | Joseph Clift</title>
+<meta name="keywords" content="Product Management, Tech" />
+<meta name="description" content="Being a product manager means that you have a lot of responsibility, but no authority.">
+<meta name="author" content="Joseph Clift">
+<link rel="canonical" href="https://josephclift.com/writing/product-martyr/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.7bfe087ae72df31787ec7a1360dd05ee246a179b51cf7a30a904b39d7f813b69.css" integrity="sha256-e/4Ieuct8xeH7HoTYN0F7iRqF5tRz3owqQSznX&#43;BO2k=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="apple-touch-icon" href="https://josephclift.com/images/apple-touch-icon.png">
+<link rel="mask-icon" href="https://josephclift.com/images/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://josephclift.com/" accesskey="h" title="Joseph Clift (Alt + H)">Joseph Clift</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="/" title="Home"><span>Home</span></a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/writing/" title="Writing">
+                    <span>Writing</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/curriculum-vitae/" title="Curriculum Vitae">
+                    <span>Curriculum Vitae</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://josephclift.com/">Home</a>&nbsp;»&nbsp;<a href="https://josephclift.com/writing/">Writing</a></div>
+    <h1 class="post-title">
+      Stop being a Product Martyr!
+    </h1>
+    <div class="post-meta"><span title='2018-02-04 00:00:00 +0000 UTC'>February 4, 2018</span>&nbsp;·&nbsp;6 min</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#dont-be-a-product-martyr" aria-label="Don’t be a Product Martyr.">Don’t be a Product Martyr.</a></li>
+                <li>
+                    <a href="#deal-better-with-messing-up" aria-label="Deal better with messing up.">Deal better with messing up.</a></li>
+                <li>
+                    <a href="#if-you-dont-record-it-youll-forget-it" aria-label="If you don’t record it, you’ll forget it.">If you don’t record it, you’ll forget it.</a></li>
+                <li>
+                    <a href="#deal-with-being-the-dumb-one" aria-label="Deal with being the dumb one.">Deal with being the dumb one.</a></li>
+                <li>
+                    <a href="#stop-being-so-fragile" aria-label="Stop being so (fr)agile.">Stop being so (fr)agile.</a></li>
+                <li>
+                    <a href="#switch-off" aria-label="Switch off!">Switch off!</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content">
+  <blockquote>
+<p>“Being a product manager means that you have a lot of responsibility, but no authority.”</p>
+</blockquote>
+<p><img loading="lazy" src="/media/product-martyr-1.jpg" alt=""  />
+</p>
+<p>This simple statement has the ring of truth to me. I found it in Matt LeMay’s really useful book, ‘<a href="http://shop.oreilly.com/product/0636920086567.do">Product Management Fundamentals</a>‘. Here’s how I feel about the responsibility/authority divide.</p>
+<p>A good product manager multitasks a lot. And feels stretched. You tend to feel like a “jack of all trades, master of none”. And no wonder, because you spend so much of your time talking to people a lot more expert than you! Design choices with a UX designer. Functionality with a developer. Increasing leads with a marketer. Content with a pro writer. And so on.</p>
+<p>But I feel that I can get a lot better about negotiating that divide. So, with the end of the financial year approaching (at least here in the UK), I’m taking stock of what I’ve learned over 2017/18, and where I want to get to, professionally, over the next year.</p>
+<p>I’m going to take LeMay’s quote as a starting point for thinking about how I’m going to become a better PM in the year ahead. And try to get the following daily habits into my work, in an effort to use my authority… responsibly.</p>
+<h3 id="dont-be-a-product-martyr">Don’t be a Product Martyr.</h3>
+<p>This point is also completely taken this from LeMay’s book, because it’s such a good description of a position I’ve previously taken at work.</p>
+<p>He says: “The product martyr is always willing to pick up the slack and take on extra work. Which just leads to them being bad-tempered and stressed out. It just makes the team feel bad about stuff. You have a chilling effect on the team, because people don’t want to make you feel more put upon. Which means important things get missed.”</p>
+<p>Sounds familiar. Next year, I’m going to learn to delegate, to lean on colleagues, more. The bad thing about this is that you ultimately won’t be mainly responsible for directing business decisions or development processes. The good thing? Other people will have a greater stake in making these decisions, and processes, work better.</p>
+<h3 id="deal-better-with-messing-up">Deal better with messing up.</h3>
+<p>I’ve been told more than once at work that, if I get many things right, and one thing slightly wrong, then I’ll obsess over that wrong thing. But the velocity of the work coming through means that getting things wrong is inevitable: not quite remembering exactly, not quite describing correctly, not quite testing accurately.</p>
+<p>This one is more emotional, less practical, than the others on the list. In the months ahead, when I make mistakes, I’ll try to assure myself that everyone messes up. That dwelling on such mistakes won’t help anyone. And that learning from these mistakes will help me make fewer in future.</p>
+<p>That said, if there’s there’s one practical step I can take to minimise mistakes, it’s remembering that…</p>
+<h3 id="if-you-dont-record-it-youll-forget-it">If you don’t record it, you’ll forget it.</h3>
+<p>I used to think that writing down daily tasks with a pen, and crossing them out on my pad one by one, would help me gain a satisfying sense of completion to the daily grind. But the sheer quantity of things to remember, and the rather laborious nature of maintaining pen-and-paper lists, meant I often did not completely record each task, or sometimes missed tasks entirely. Storing up trouble for the future.</p>
+<p>In my defence, I’m really busy. On a single day, I could be tracking usage or some other research task, getting requirements for a project, catching and reporting bugs, grooming the backlog, checking in on development or testing. That’s between meetings. Plus getting grabbed for 101 other things that kind of aren’t your responsibility, but would be just as well for you to deal with anyway.</p>
+<p>This past year, I realised that writing to-do lists was pretty much a waste of my precious time at work. I experimented with <a href="https://en.todoist.com/app?lang=en">Todoist</a>, and found it a real help: I could set recurring tasks to pop up daily, reminders for future tasks, and – crucially – get that little serotonin pop of zapping a completed task, with a few keystrokes. Previously, this would have taken many pen strokes, and the need to write a fresh list each day would lead to things getting lost.</p>
+<p>Next year, I’m going to continue to cultivate my various Todoist projects (it’s already spread outside my working life and into my studying, health and errand-running), and perhaps check out the Premium version of the app.</p>
+<h3 id="deal-with-being-the-dumb-one">Deal with being the dumb one.</h3>
+<p>This is a hard one for me.</p>
+<p>I think I naturally defer to authority. Which means I’m never stubborn and can change my mind when someone else suggests a better way of doing something. But it also means I find myself overruled when I’m mostly sure I’m right. Which gets me into trouble later, if I do happen to be right.</p>
+<p>Next year, I’m going to try to take a step back in such situations, examine whether I really do have solid grounds for arguing my point of view… and push back.</p>
+<h3 id="stop-being-so-fragile">Stop being so (fr)agile.</h3>
+<p>This is another process one. Over the past year, I found myself growing less and less tolerant of the constant framework conversations: SCRUM vs XP vs Kanban vs Agile vs Lean vs DevOps and so on and so on. Can we just give up and admit that the definitions of distinct applications of what was quite an amorphous “manifesto” to start with are too blurred together to be useful? I work in advertising, and even humdrum marketing processes are labelled “agile” these days. It’s a buzzword.</p>
+<p>Can’t we just agree that keeping to a spirit of releasing often, improving incrementally and listening to our users is <em>enough</em>? That it’s a general aim rather than a formal process? And that sticking rigidly to such a process is doomed to fail anyway?</p>
+<p>I’m totally fed up of feeling bad about not sticking to this or that Agile principle, when nobody can agree on what these principles actually are beyond their broadest definition. So I’m going to stop being so fragile next year.</p>
+<h3 id="switch-off">Switch off!</h3>
+<p>Ever have a backlog dream? Unfortunately, I’ve been tormented by cascading backlog items from my company’s issue tracking platform on more than one occasion.</p>
+<p>I’m going to make a conscious effort to get my head out of work, once I’m physically out of the office. One of the best things I did last year was to remove both from my phone, and make a point never to check outside of working hours. It had zero bad effects on my work, and did wonders for my stress levels.</p>
+<p>Next year I won’t be one of those people replying to email or Slack messages at 11pm on a Saturday. If only I could be sure that I won’t dream of that frightening cascade in 2018. But it’s definitely worth a try.</p>
+<p><em><a href="https://www.johnfoxe.org/woodcuts/f0658w.gif">Image credit johnfoxe.org</a>. A Catholic education doesn’t really leave you in later life…</em></p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://josephclift.com/tags/product-management/">Product Management</a></li>
+      <li><a href="https://josephclift.com/tags/tech/">Tech</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>Ⓒ Joseph Clift 2010-2023
+      
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

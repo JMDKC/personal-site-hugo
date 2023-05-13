@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Management on Joseph Clift</title>
+    <link>https://josephclift.com/tags/product-management/</link>
+    <description>Recent content in Product Management on Joseph Clift</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://josephclift.com/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterfall or straw man?</title>
+      <link>https://josephclift.com/writing/waterfall-strawman/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/waterfall-strawman/</guid>
+      <description>The whole Waterfall vs Agile comparison is a sham. It isn&amp;rsquo;t two competing ways of doing things. The Waterfall approach has never had serious support - not even from the inventor of the concept.
+So many blogs, tweets and Medium posts about Agile have drawn the comparison over recent years. On one side, there&amp;rsquo;s the old bad Waterfall way of doing things - with bloated planning phases, long lead times, no user feedback, big releases, and no improvements to the initial delivery afterwards.</description>
+    </item>
+    
+    <item>
+      <title>PSM1... and done</title>
+      <link>https://josephclift.com/writing/psm1-and-done/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/psm1-and-done/</guid>
+      <description>So it’s done. After several weeks of reading a 19-page PDF file over and over, taking practice tests and reading countless blog posts, you can now, officially, call me master. Scrum Master. I got certified!
+I’d have thought that would have come from the day job, where I work on two Scrum teams, but studying for the PSM1 Scrum Master certification actually underlined how little I knew about the guidelines of this process.</description>
+    </item>
+    
+    <item>
+      <title>Epic documentation</title>
+      <link>https://josephclift.com/writing/epic-documentation/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/epic-documentation/</guid>
+      <description>It’s right there in the Agile Manifesto: today’s product teams should prioritise “working software over comprehensive documentation”.
+A nice thought. But having notched up several years of working with Agile teams, I feel like these five words have led to an unfortunate belief taking hold among certain zealots: that we don’t need documentation at all!
+Which is nonsense. We need the leanest, briefest, most maintainable documentation possible. But we need documentation all the same.</description>
+    </item>
+    
+    <item>
+      <title>Stop being a Product Martyr!</title>
+      <link>https://josephclift.com/writing/product-martyr/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/product-martyr/</guid>
+      <description>“Being a product manager means that you have a lot of responsibility, but no authority.”
+This simple statement has the ring of truth to me. I found it in Matt LeMay’s really useful book, ‘Product Management Fundamentals‘. Here’s how I feel about the responsibility/authority divide.
+A good product manager multitasks a lot. And feels stretched. You tend to feel like a “jack of all trades, master of none”. And no wonder, because you spend so much of your time talking to people a lot more expert than you!</description>
+    </item>
+    
+    <item>
+      <title>Yes we Kanban!</title>
+      <link>https://josephclift.com/writing/yes-we-kanban/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephclift.com/writing/yes-we-kanban/</guid>
+      <description>Kanban is one of the most talked-about, but least-understood, ways we have of managing digital product development. At least, that’s the impression I got from a recent talk given by David Lowe, a Kanban expert and Scrum coach, at General Assembly in London.
+A quick Google search suggests that Kanban has something to do with improving production processes in Japanese car factories. But a look around the blogosphere shows it’s since been sucked into the Agile/Scrum/Lean vortex that powers so much product discussion these days.</description>
+    </item>
+    
+  </channel>
+</rss>

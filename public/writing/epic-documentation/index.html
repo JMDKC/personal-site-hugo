@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Epic documentation | Joseph Clift</title>
+<meta name="keywords" content="Product Management, Strategy, Business, Productivity" />
+<meta name="description" content="Agile documentation needs to do the minimum viable job. Docs shouldn’t be comprehensive, but they should still exist. Here&#39;s an example.">
+<meta name="author" content="Joseph Clift">
+<link rel="canonical" href="https://josephclift.com/writing/epic-documentation/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.7bfe087ae72df31787ec7a1360dd05ee246a179b51cf7a30a904b39d7f813b69.css" integrity="sha256-e/4Ieuct8xeH7HoTYN0F7iRqF5tRz3owqQSznX&#43;BO2k=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://josephclift.com/media/joe-memoji.png">
+<link rel="apple-touch-icon" href="https://josephclift.com/images/apple-touch-icon.png">
+<link rel="mask-icon" href="https://josephclift.com/images/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://josephclift.com/" accesskey="h" title="Joseph Clift (Alt + H)">Joseph Clift</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="/" title="Home"><span>Home</span></a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/writing/" title="Writing">
+                    <span>Writing</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://josephclift.com/curriculum-vitae/" title="Curriculum Vitae">
+                    <span>Curriculum Vitae</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://josephclift.com/">Home</a>&nbsp;»&nbsp;<a href="https://josephclift.com/writing/">Writing</a></div>
+    <h1 class="post-title">
+      Epic documentation
+    </h1>
+    <div class="post-meta"><span title='2019-11-30 00:00:00 +0000 UTC'>November 30, 2019</span>&nbsp;·&nbsp;8 min</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#background" aria-label="Background">Background</a></li>
+                <li>
+                    <a href="#execution" aria-label="Execution">Execution</a></li>
+                <li>
+                    <a href="#results" aria-label="Results">Results</a></li>
+                <li>
+                    <a href="#the-future" aria-label="The future">The future</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content">
+  <p>It’s right there in the <a href="https://agilemanifesto.org/">Agile Manifesto</a>: today’s product teams should prioritise “working software over comprehensive documentation”.</p>
+<p>A nice thought. But having notched up several years of working with Agile teams, I feel like these five words have led to an unfortunate belief taking hold among certain zealots: that we don’t need documentation at all!</p>
+<p>Which is nonsense. We need the leanest, briefest, most maintainable documentation possible. But we need documentation all the same.</p>
+<p>This is what the Agile Manifesto states in the first place. Here’s a <a href="https://content.pivotal.io/blog/minimum-viable-deliverable">useful summary from Jonathan Berger</a>:</p>
+<blockquote>
+<p>Agile seeks to minimize waste, so taken to its logical extreme, <em>all documentation is waste</em>. That doesn’t mean documentation can (or should) be done away with entirely. But it does suggest that minimizing documentation is a Good Thing.</p>
+</blockquote>
+<p>So documents in themselves aren’t bad, they just need to do the minimum viable job. They shouldn’t be “comprehensive”, but they should still exist.</p>
+<p>Here’s an example of a useful document I’ve started using: the <strong>Epic document</strong>. The thinking behind this doc is very much a work in progress. The doc’s sections are a mishmash of convention and convenience. The process comes loaded with caveats. But I’m pretty pleased with this doc approach, pleased enough to post this mini-case study about it!</p>
+<h3 id="background">Background</h3>
+<p>First of all, here’s why the docs are based around the team’s Epics. The Agile teams I work with both use JIRA as our issue-tracking tool, though the learnings are relevant to other tools.</p>
+<p><img loading="lazy" src="/media/epic-documentation-1.jpg" alt=""  />
+</p>
+<p>I’m defining Epics as large units of work for the team, accompanying “more than several” individual stories, which are themselves captured as individual tickets in the tracker.</p>
+<p>To use an illustrative example, the work for building the CRUD for a particular tool in the CMS would likely be one or two stories; but building the tool as a whole - including additional stories for the data model, front end and so on - would be an Epic.</p>
+<p>The main problem that led me to start these docs is that the members of the team working further down the funnel - mainly developers - often felt that we were not getting enough into the “why” of the things they were building. Our Product Manager would often come with lists of requirements that I worked with him to produce stories for, which were then reviewed and refined by the devs, designer and QA.</p>
+<p>The question of where the requirements came from, why we were doing it, and what results we were targeting, often got left by the wayside.</p>
+<p>The problem had easy-to-define causes. Firstly, we encounter the extremely common problem of the business making strategic decisions without involving the product team, and giving lists of fully-formed requirements accompanied by a tight deadline which we have to “just deliver”. This meant that just getting everything into JIRA and into a workable state for the devs was a challenge, and that there was often simply no time to consider the “why”.</p>
+<p>The second cause, I’m afraid to say, is that we’d swallowed a bit too much of the Agile snake oil - and regarded any and all process documentation as unnecessary to efficient working.</p>
+<p>The third - I was inspired by this article about Amazon’s business practices - which involves a surprising amount of documentation. They start the process with writing an <a href="https://medium.com/@IndianaStyle/amazon-press-release-how-to-55d61188ecdd">imaginary press release</a> for the final product: a short document that’s focused on the “why”, in other words.</p>
+<p>Lightly adapted, our Epic docs provide a touchstone for the team, explaining the “why” as well as the “what” behind each of the Epics we take on.</p>
+<h3 id="execution">Execution</h3>
+<p>As Atlassian, the maker of JIRA, <a href="https://www.atlassian.com/agile/project-management/epics">states in its own documentation</a>, part of the role of Epics is to connect the nitty-gritty of fully-estimated user stories with the broader business strategy:</p>
+<blockquote>
+<p>Breaking initiatives into <strong>epics</strong> helps keep the team’s daily work — expressed in smaller stories — connected to overall business goals. As a team learns more about an epic through development and customer feedback, user stories will be added and removed as necessary. That’s the key with agile epics: Scope is flexible, based on customer feedback and team cadence.</p>
+</blockquote>
+<p>All of which I agree with. But just keeping work items as Stories, themselves tied within Epics, without a higher-level document to explain the thinking behind the Epic, was leaving people feeling a bit stranded as to why they were doing the work in the first place.</p>
+<p>So, over the course of a few sprints, I worked on putting together just such a summary document. Through trial and error, the documents coalesced around the following sections:</p>
+<ul>
+<li><strong>Metadata:</strong> a section at the top of the document with basic information about the Epic - its name, JIRA issue key (with a link to that JIRA issue), who wrote the document (always me, sometimes with the Product Manager in a supporting role), and with links to any initial prototypes and wireframes the designers have completed</li>
+<li><strong>Introduction:</strong> a summary of what the product or product increment is covered by the Epic. Using the example below, this could be a CMS tool. An integration with our CRM system. A new section of a website. Anything, so long as it’s bigger than a few Stories!</li>
+<li><strong>The important bit… the why behind the Epic:</strong> This is the bit that I most need our Product Manager’s help with. I’m looking for actionable information in the following sections:
+<ul>
+<li><strong>The business case</strong>: Exactly why are we doing this? Who has asked for what we are delivering? What problem for our users will it solve - and who are these users?</li>
+<li><strong>The business cost</strong>: Which parts of the product team need to work on this? Roughly how long for? If it’s been asked for by the business, or if we need to work with an external agency or partner, who owns that relationship?</li>
+<li><strong>Expected results</strong>: I’m pretty liberal with this one, but we need one or more signposts on whether we are looking for uplift on one of our quant metrics, faster load times, or even better a measurable financial impact!</li>
+</ul>
+</li>
+</ul>
+<p>Finally, at the bottom of the document, an optional extra: I draft a list of Stories that I imagine we will need to complete the Epic. We keep them in the “<a href="https://www.agilealliance.org/glossary/gwt/">Given/When/Then</a>” format</p>
+<p>Note the “imagine” and “draft” in that last sentence. At this point, nothing of the Epic is in JIRA yet. The document, built by the Product Manager and me, needs to be tech reviewed by devs and QA, and any designer who didn’t work on the prototypes, in a story estimation meeting. From there, the initial list of Stories are plugged into the issue tracker. The draft list in the Epic document can be revised or even deleted if you like. It’s served its purpose, to drive conversation in the story estimation meeting.</p>
+<p>The important part of the document - the “why” - is the only part that will be revisited as the work gets done. Every time we wonder what the user need is, we revisit and update the document. And if requirements change significantly, we revisit the document to check the original purpose behind the Epic.</p>
+<h3 id="results">Results</h3>
+<p>You’ll probably have guessed by now that I was the driving force within the team for producing these documents. So I’m going to be as honest with myself as possible when putting together the list of Pros and Cons of our experience with Epic documents so far.</p>
+<p><strong>Pros</strong></p>
+<ul>
+<li>These documents have been effective in the Product Manager’s validating of background assumptions as to why we <em>need</em> a particular new tool or feature.</li>
+<li>They’ve become very useful reference documents for me, who works on delivery further down the funnel, in providing an effective one-page summary of a particular product or feature.</li>
+<li>They fit in well with our current workflow: of course, they are keyed to individual JIRA epics. The documents themselves are in Google Doc format, and are stored in a particular folder in our team Wiki, which is on the corporate G-Suite. While you could put them in Confluence or Sharepoint, they must be living and editable documents, subject to changes and accessible to the team at any moment, <em>not</em> forgettable and losable attachments on an email.</li>
+</ul>
+<p><strong>Cons</strong></p>
+<ul>
+<li>To be truly Agile, these documents would be a resource written by and maintained by the team. At the moment, the devs aren’t really involved. On one hand, this is to be expected - as the developers might naturally work more on the Stories, which are tech reviewed and estimated by them. And, quite naturally, the devs are more inclined to be opposed to over-comprehensive documentation. But on the other hand, everyone in the team should have a degree of ownership on the “why” behind the products, and nobody should be solely focused on the delivery.</li>
+<li>While pretty minimal, I can see these documents getting bloated over time. Because that’s always the way with IT documentation, which is itself the reason the Agile Manifesto was written in the first place!</li>
+<li>The documents are a long way from <a href="https://weekdone.com/resources/objectives-key-results">true OKRs</a> - the success metrics mentioned in them are only suggested, rather than enforced. Similarly, the documents are closely coupled to JIRA epics rather than the broader business strategy, making them of limited use outside of the product team.</li>
+</ul>
+<h3 id="the-future">The future</h3>
+<p>For me, it is going to be a process of addressing these cons, one by one.</p>
+<p>Something to try in 2020 is to make them shorter and more visual, merging sections, and maybe doing away with that suggested story list altogether.</p>
+<p>Watch this space for how I get on.</p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://josephclift.com/tags/product-management/">Product Management</a></li>
+      <li><a href="https://josephclift.com/tags/strategy/">Strategy</a></li>
+      <li><a href="https://josephclift.com/tags/business/">Business</a></li>
+      <li><a href="https://josephclift.com/tags/productivity/">Productivity</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>Ⓒ Joseph Clift 2010-2023
+      
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
