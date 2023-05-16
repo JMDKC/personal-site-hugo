@@ -46,7 +46,7 @@ params:
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-
+        
     mainSections:
       - articles
 
