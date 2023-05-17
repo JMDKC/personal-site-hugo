@@ -1,5 +1,5 @@
 googleAnalytics: 'G-CTTMNR4WPV'
-baseURL: 'https://personal-site-hugo-nu1.pages.dev/'
+baseURL: 'https://josephclift.com/'
 title: Joseph Clift
 theme: charlolamode
 paginate: 100
@@ -46,7 +46,7 @@ params:
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-        
+
     mainSections:
       - articles
 
