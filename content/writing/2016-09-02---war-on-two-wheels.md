@@ -39,14 +39,14 @@ Foot passengers, jostling one another’s umbrellas in a general infection of il
 
 And, of course, TS Eliot’s vision of the hordes of City workers flowing over London Bridge as an army of the undead leant a hellish tinge to proceedings:
 
-I had not thought death had undone so many.
-Sighs, short and infrequent, were exhaled,
-And each man fixed his eyes before his feet.
-Flowed up the hill and down King William Street.
+> I had not thought death had undone so many.  
+> Sighs, short and infrequent, were exhaled,  
+> And each man fixed his eyes before his feet.  
+> Flowed up the hill and down King William Street.
 
 Writing 20 years later, Patrick Hamilton, in 'The Slaves of Solitude', saw the acute dilemma of the city traveller in similarly inhuman terms.
 
-London, the crouching monster, like every other monster has to breathe, and breathe it does in its own obscure, malignant way. Its vital oxygen is composed of suburban working men and women of all kinds, who every morning are sucked up through an infinitely complicated respiratory apparatus… into the mighty congested lungs, held there for a number of hours, and then, in the evening, exhaled violently through the same channels.
+> London, the crouching monster, like every other monster has to breathe, and breathe it does in its own obscure, malignant way. Its vital oxygen is composed of suburban working men and women of all kinds, who every morning are sucked up through an infinitely complicated respiratory apparatus… into the mighty congested lungs, held there for a number of hours, and then, in the evening, exhaled violently through the same channels.
 
 The men and women imagine they are going into London and coming out again more or less of their own free will, but the crouching monster sees all and knows better.
 
