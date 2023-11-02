@@ -66,7 +66,7 @@ So, over the course of a few sprints, I worked on putting together just such a s
 	* **The business cost**: Which parts of the product team need to work on this? Roughly how long for? If it’s been asked for by the business, or if we need to work with an external agency or partner, who owns that relationship?
 	* **Expected results**: I’m pretty liberal with this one, but we need one or more signposts on whether we are looking for uplift on one of our quant metrics, faster load times, or even better a measurable financial impact!
 
-Finally, at the bottom of the document, an optional extra: I draft a list of Stories that I imagine we will need to complete the Epic. We keep them in the “[Given/When/Then](https://www.agilealliance.org/glossary/gwt/)” format 
+Finally, at the bottom of the document, an optional extra: I draft a list of Stories that I imagine we will need to complete the Epic. 
 
 Note the “imagine” and “draft” in that last sentence. At this point, nothing of the Epic is in JIRA yet. The document, built by the Product Manager and me, needs to be tech reviewed by devs and QA, and any designer who didn’t work on the prototypes, in a story estimation meeting. From there, the initial list of Stories are plugged into the issue tracker. The draft list in the Epic document can be revised or even deleted if you like. It’s served its purpose, to drive conversation in the story estimation meeting.
 

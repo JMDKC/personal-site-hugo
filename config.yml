@@ -55,8 +55,8 @@ params:
           url: "https://www.linkedin.com/in/jmdkc/"
         - name: github
           url: "https://github.com/jmdkc"
-        - name: twitter
-          url: "https://twitter.com/jmdkc"
+ #       - name: twitter
+ #         url: "https://twitter.com/jmdkc"
         - name: instagram
           url: "https://instagram.com/jmdkc"
 
