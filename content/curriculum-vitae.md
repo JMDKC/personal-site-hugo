@@ -5,11 +5,11 @@ layout: "page"
 slug: "/curriculum-vitae"
 ---
 
-[View a PDF version here](/media/josephclift_cv_onepage_2023.pdf)
+[View a PDF version here](/media/josephclift_cv_onepage_2024.pdf)
 ### EXPERIENCE
 #### Which?, London — Lead Delivery Manager
 ##### FEBRUARY 2023-
-Which? is the UK’s consumer champion. Working in a product team based on the Spotify scaled Agile framework, my responsibilities include:
+Which? is the UK’s consumer champion. Working in a product and technology team based on the Spotify scaled Agile framework, my responsibilities include:
 * All of the below, plus assisting the organisation in programme management and line managing our growing team of DMs.
 
 #### Which?, London — Delivery Manager
@@ -44,7 +44,8 @@ I worked on the editorial team, focussing on WARC’s suite of adspend and media
 Working for a news agency, I wrote news and features for clients including JPMorgan, Dresdner Kleinwort and the London Stock Exchange.
 
 ### CERTIFICATIONS & EDUCATION
-#### Agile  
+#### Agile Project Management
+* [PRINCE2 Foundation](/media/josephclift_PRINCE2_foundation_certificate.pdf) and [Practitioner](/media/josephclift_PRINCE2_practitioner_certificate.pdf) certified project manager (2023)
 * [PMI-ACP certified](/media/josephclift_PMI-ACP_certificate.pdf) Agile project manager (2022)
 * [PK1 certified](/media/josephclift_PK1_certificate.pdf) Kanban trainer (2022)
 * [PSM1 certified ](/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
