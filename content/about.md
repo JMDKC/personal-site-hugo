@@ -7,7 +7,7 @@ slug: "/about"
 
 ![joseph clift headshot](/media/joseph-clift-headshot-2021.jpeg)
 
-I'm an Agile-first project manager who helps product and tech teams work together, better.
+I'm an Agile-first project manager who helps product teams work together, better.
 
 I currently lead the Delivery Management team at [Which?](https://which.co.uk), the UK's consumer champion. Previously, I worked at [Ascential](https://www.ascential.com/), a FTSE 250-listed media company. I started on my - far from complete - journey to Agile via [General Assembly](/media/josephclift_GA_certificate.pdf), having previously worked as a financial journalist. Since then, I've deepened my education with [PMI-ACP](/media/josephclift_PMI-ACP_certificate.pdf), [PSM1](/media/josephclift_PSMI_certificate.pdf) (scrum), [PK1](/media/josephclift_PK1_certificate.pdf) (Kanban) and [PRINCE2](/media/josephclift_PRINCE2_practitioner_certificate.pdf) qualifications. And I learn every day on the job, of course.
 
