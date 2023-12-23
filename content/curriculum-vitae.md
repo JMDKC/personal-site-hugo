@@ -48,7 +48,7 @@ Working for a news agency, I wrote news and features for clients including JPMor
 * [PRINCE2 Foundation](/media/josephclift_PRINCE2_foundation_certificate.pdf) and [Practitioner](/media/josephclift_PRINCE2_practitioner_certificate.pdf) certified project manager (2023)
 * [PMI-ACP certified](/media/josephclift_PMI-ACP_certificate.pdf) Agile project manager (2022)
 * [PK1 certified](/media/josephclift_PK1_certificate.pdf) Kanban trainer (2022)
-* [PSM1 certified ](/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
+* [PSM1 certified](/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
 * [Product Management certification](/media/josephclift_GA_certificate.pdf), General Assembly (2014)
 
 #### Academic
