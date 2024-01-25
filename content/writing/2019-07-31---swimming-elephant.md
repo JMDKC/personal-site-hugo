@@ -14,7 +14,7 @@ Feeling deadline-induced stress, along with the vague sense that you don’t do 
 
 I hadn’t swum for 20 years before joining the club a few months back. Now, I leave a brightly-lit council-run pool in Elephant and Castle each Wednesday night with a definite spring in my step, the day’s worries forgotten. On Sunday (sometimes) it’s an early evening hour in Victoria, just enough exercise to blast impending work worries out of my mind.
 
-![the pool](/media/swimming-elephant-1.jpg)
+![the pool](/media/swimming-elephant-1.JPG)
 _Feeling the high after class…_
 
 Since joining, I found out that Out to Swim is surprisingly big, with its own synchronised swimming and water polo teams, as well as 10 lanes of swimmers.
