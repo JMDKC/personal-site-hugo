@@ -61,7 +61,7 @@ The RACI chart is an attempt to solve that problem. And, in PRINCE2, each of the
 
 So, each stage/pink box has one or more of the seven PRINCE2 processes associated with it. And each process has its own RACI, an example is below:
 
-![an example PRINCE2 RACI](/media/you-need-a-raci-3.jpg)
+![An example PRINCE2 RACI](/media/you-need-a-raci-3.jpg)
 
 The activities listed on each row should be pretty self-explanatory “things you have to do to close the project”. You don’t need to worry about what all the job roles (the columns) do - though you can probably guess - the point is, they each have a R, an A, a C or an R. Generally, when closing a project, the executive is accountable, the project manager is responsible. Simple!
 
