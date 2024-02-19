@@ -77,7 +77,7 @@ _If maintained and applied_ (important caveat), it can help unblock teams and ke
 
 ## RACI cons
 
-If the caveat above doesn’t apply, though, and you don’t maintain and apply your RACI across teh entire project team, you are in trouble.
+If the caveat above doesn’t apply, though, and you don’t maintain and apply your RACI across the entire project team, you are in trouble.
 
 Human nature means that taking on responsibility and accountability - sticking your neck out, taking the initiative - is hard for everyone. And, from bitter experience, it can mean that a person or a function who has been identified as responsible for something, simply refuses to take responsibility. Decisions are deferred, or kicked around, blockers intensify, the pace delivery suffers. We all feel sad.
 
