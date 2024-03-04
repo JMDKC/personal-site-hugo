@@ -39,7 +39,7 @@ Generally, who’s who on the RACI is documented, sometimes in a spreadsheet, an
 
 ## Where a RACI fits in a project
 
-One big knock techy people have on RACIs is that they are a tool used by traditional project management, aka people who _just don’t understand_ how things work, with a body of knowledge that’s belonged in the bin since we started getting dial-up modems at home.
+One big knock techy people have on the RACI is it's a tool used by traditional project management, aka people who _just don’t understand_ how things work, with a body of knowledge that’s belonged in the bin since we started getting dial-up modems at home.
 
 They’re definitely an old-school tool, as I found out when I recently studied for ([and passed, hooray](https://josephclift.com/media/josephclift_PRINCE2_practitioner_certificate.pdf)!) my PRINCE2. This is the _ne plus ultra_ of traditional project management frameworks, in the UK at least. And RACIs are absolutely part of PRINCE2.
 
@@ -79,7 +79,7 @@ _If maintained and applied_ (important caveat), it can help unblock teams and ke
 
 If the caveat above doesn’t apply, though, and you don’t maintain and apply your RACI across the entire project team, you are in trouble.
 
-Human nature means that taking on responsibility and accountability - sticking your neck out, taking the initiative - is hard for everyone. And, from bitter experience, it can mean that a person or a function who has been identified as responsible for something, simply refuses to take responsibility. Decisions are deferred, or kicked around, blockers intensify, the pace delivery suffers. We all feel sad.
+Human nature means that taking on responsibility and accountability - sticking your neck out, taking the initiative - is hard for everyone. And, from bitter experience, it can mean that a person or a function who has been identified as responsible for something, simply refuses to take responsibility. Decisions are deferred, or kicked around, blockers intensify, the pace of delivery suffers. We all feel sad.
 
 And, if the project manager points to the RACI but themselves lack the authority to enforce it, knock heads together and get decisions made, the document can be ignored. Especially if the person identified as responsible or accountable feels themselves to be high enough on the food chain to ignore it safely. It’s just a table, after all. So, execs may often ignore a RACI if it puts them in an uncomfortable position.
 
@@ -87,9 +87,9 @@ Tech teams, on the other hand, seeing the RACI as an old-school tool, can simply
 
 ## How a RACI can work
 
-So, a RACI has been created for good reasons, is potentially useful, but faces big obstacles to getting off the ground, maintained and followed by cross-functional teams.
+So, a RACI has been created for good reasons, is potentially useful, but faces big obstacles to getting off the ground, and being maintained and followed by cross-functional teams.
 
-How can a RACI work? Based on experience, here are three tips, from the point of view of the project manager:
+How can a RACI work? Based on experience, here are five tips, from the point of view of the project manager:
 
 1. Make the document as lightweight as possible. Rather than going full PRINCE2 and having a separate document for all the different processes associated with the project or initiative you’re doing, what about one RACI to rule them all?
 2. Get as much buyin as possible before you create one. The easy way out is going to be to put together a RACI by yourself, get the nod from the executive, then tell the team we have one! Instead, try to co-create it as much as possible with the delivery teams themselves. If everyone can be in the room at point of creation, so much the better.
@@ -97,6 +97,6 @@ How can a RACI work? Based on experience, here are three tips, from the point of
 4. Be brave in enforcing the RACI! If you see someone shirking responsibility who has been marked as responsible, push on it, politely. Be persistent and always be ready to point to the value of having a RACI. Actively listen to your colleague’s concerns, and be prepared to open a conversation on re-assigning responsibility if you need.
 5. In making things lightweight, consider making the matrix simpler! At the end of the day, a RACI helps make responsibility and decision makers clearer and gets us unblocked. What about an RA matrix if those are the two most important bits? (Hint: they are.) What about an “A team” list of accountables-only, if you want to be super bare bones?
 
-That list above is one for me as well as you, by the way. As should be obvious, I don’t think we got the RACIs right in the projects I’ve worked for so far. But I still think that, if done right, they can do a job for you.
+That list above is one for me as well as you, by the way. As should be obvious, I don’t think we got the RACIs right in the projects I’ve worked for so far. But I still think that, if done right, they can do a job.
 
-They’re not the key to project success. But they’re not a relic either.
+They’re not the key to project success. But they’re not a pointless relic either.
