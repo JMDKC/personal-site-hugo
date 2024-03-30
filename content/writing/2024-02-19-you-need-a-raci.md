@@ -57,9 +57,7 @@ Finally, PRINCE2 projects are run according to seven processes, across different
 
 Which all contributes to a massive procedural problem - WHO DOES WHAT?
 
-The RACI chart is an attempt to solve that problem. And, in PRINCE2, each of the seven processes come with their own RACI. Across the seven project roles. (Yes, PRINCE2 loves the number seven…)
-
-So, each stage/pink box has one or more of the seven PRINCE2 processes associated with it. And each process has its own RACI, an example is below:
+The RACI chart is an attempt to solve that problem. And, in PRINCE2, each of the seven processes come with their own RACI. Across the seven project roles. (Yes, PRINCE2 loves the number seven…) And each process has its own RACI, an example is below:
 
 ![An example PRINCE2 RACI](/media/you-need-a-raci-3.jpg)
 
