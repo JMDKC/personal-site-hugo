@@ -63,7 +63,7 @@ So, each stage/pink box has one or more of the seven PRINCE2 processes associate
 
 ![An example PRINCE2 RACI](/media/you-need-a-raci-3.jpg)
 
-The activities listed on each row should be pretty self-explanatory “things you have to do to close the project”. You don’t need to worry about what all the job roles (the columns) do - though you can probably guess - the point is, they each have a R, an A, a C or an R. Generally, when closing a project, the executive is accountable, the project manager is responsible. Simple!
+The activities listed on each row should be pretty self-explanatory “things you have to do to close the project”. You don’t need to worry about what all the job roles (the columns) do - though you can probably guess - the point is, they each have a R, an A, a C or an I. Generally, when closing a project, the executive is accountable, the project manager is responsible. Simple!
 
 So, in theory, the RACI helps decomplexify complex environments, provides clarity of communications and lends certainty to project team decisions. In the real world, there are pros and cons to using this document.
 
