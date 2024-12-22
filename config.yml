@@ -1,79 +1,76 @@
-googleAnalytics: 'G-CTTMNR4WPV'
-baseURL: 'https://josephclift.com/'
+googleAnalytics: "G-CTTMNR4WPV"
+baseURL: "https://josephclift.com/"
 title: Joseph Clift
 theme: charlolamode
 paginate: 100
 
 menu:
-    main:
-        - name: About
-          url: /about/
-          weight: 10
-        - name: Writing
-          url: /writing/
-          weight: 15
-        - name: Projects
-          url: /projects/
-          weight: 20
-        - name: Curriculum Vitae
-          url: /curriculum-vitae/
-          weight: 25  
-
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+    - name: Writing
+      url: /writing/
+      weight: 15
+    #- name: Projects
+    #  url: /projects/
+    #  weight: 20
+    - name: Curriculum Vitae
+      url: /curriculum-vitae/
+      weight: 25
 
 params:
-    author: Joseph Clift
+  author: Joseph Clift
 
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
 
-    defaultTheme: auto
-    # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    displayFullLangName: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowToc: true
+  profileMode:
+    # Disable to populate home page with 'mainSections' content
+    enabled: true
+    title: Joseph Clift
+    description: |
 
-    profileMode:
-        # Disable to populate home page with 'mainSections' content
-        enabled: true
-        title: Joseph Clift
-        description: |
+      Hello, I'm a London-based delivery lead.
 
-          Hello, I'm a London-based delivery lead.
+      This is my personal website. Click around!
+    imageUrl: "/media/joe-memoji.png"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
 
-          This is my personal website. Click around!
-        imageUrl: "/media/joe-memoji.png"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+  mainSections:
+    - articles
 
-    mainSections:
-      - articles
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jmdkc/"
+    - name: github
+      url: "https://github.com/jmdkc"
+    #       - name: twitter
+    #         url: "https://twitter.com/jmdkc"
+    - name: instagram
+      url: "https://instagram.com/jmdkc"
 
-    socialIcons:
-        - name: linkedin
-          url: "https://www.linkedin.com/in/jmdkc/"
-        - name: github
-          url: "https://github.com/jmdkc"
- #       - name: twitter
- #         url: "https://twitter.com/jmdkc"
-        - name: instagram
-          url: "https://instagram.com/jmdkc"
+    # add more social icons. find more in svg.html file
+    # - name: youtube
+    #   url: yoururl
+    # - name: facebook
+    #   url: yoururl
 
-      # add more social icons. find more in svg.html file
-      # - name: youtube
-      #   url: yoururl
-      # - name: facebook
-      #   url: yoururl
-
-
-    # change favicon in images folder (icon for web tab)
-    assets:
-          favicon: "/media/joe-memoji.png"
-          favicon16x16: "/media/joe-memoji.png"
-          favicon32x32: "/media/joe-memoji.png"
-          apple_touch_icon: "/images/apple-touch-icon.png"
-          safari_pinned_tab: "/images/apple-touch-icon.png"
+  # change favicon in images folder (icon for web tab)
+  assets:
+    favicon: "/media/joe-memoji.png"
+    favicon16x16: "/media/joe-memoji.png"
+    favicon32x32: "/media/joe-memoji.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -81,4 +78,4 @@ enableEmoji: true
 pygmentsUseClasses: true
 
 minify:
-    disableXML: true
+  disableXML: true
