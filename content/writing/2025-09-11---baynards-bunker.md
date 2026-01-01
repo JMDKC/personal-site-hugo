@@ -179,11 +179,11 @@ Barlow sent out a memo that ratcheted the pressure up still further, as well as 
 
 > Some of it is no doubt inspired - by overseas competitors, monopoly-breakers, and those out of sympathy with Britain, PO, nationalised industries etc; …. We know that there are unathorized(sic) leakages from the design teams to the press, which emphasise the detailed problems and magnify them out of context. Geneva provides a unique opportunity, … to put the record straight.
 
-There was also anxiety about negative press coverage and unauthorised leaks from within the design teams, which senior management believed were magnifying the project’s problems out of context. Some of the questions to Barlow from an “Industrial Correspondents lunch” include:
+You can see some of this press scepticism in pre-submitted questions to Barlow from an “Industrial Correspondents lunch” later in 1979, which include:
 
 > _How is System X developing? Are’nt(sic) you so far behind, that very very few markets are left open to you?_
 
-TELECOM ‘79 turned out to a success, and Barlow felt that “The Brits are back! [It was a] final launchpad for the system.”
+The demonstration at TELECOM ‘79 turned out to a success, and Barlow later recalled feeling that “The Brits are back! [It was a] final launchpad for the system.”
 
 Even after this success and ahead of the launch, worries persisted - this time about strikes. Benton grumbles that “since the demonstration the industrial relations problems have flared up in a way which is likely to have a serious effect on completion of the work for the Geneva model”. (It was the winter after the [Winter of Discontent](https://www.historyextra.com/period/20th-century/winter-of-discontent-causes-what-happened-meaning/), after all.) Meanwhile, a Plessey executive wrote:
 
