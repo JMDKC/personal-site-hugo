@@ -273,4 +273,10 @@ That final factor - of fear - is the critical one. That fear influenced the cons
 
 The plaque at the base of the Richard Kindersley sculpture quotes Shakespeare’s _As You Like It_. Its seven stacked heads represent the seven ages of man. The final head is a smirking skull. It represents:
 
-> _Last scene of all,_ > _That ends this strange eventful history,_ > _Is second childishness and mere oblivion,_ > _Sans teeth, sans eyes, sans taste, sans everything._
+> _Last scene of all,_
+
+> _That ends this strange eventful history,_
+
+> _Is second childishness and mere oblivion,_
+
+> _Sans teeth, sans eyes, sans taste, sans everything._
