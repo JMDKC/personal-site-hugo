@@ -142,7 +142,7 @@ And Baynard House remained largely empty.
 
 That 1980 launch also came at the end of a long and much-delayed build-out. Not of the building itself, as far as I can tell, but of the exchange technology.
 
-System X project’s tortured genesis is clear from some of the archive material. There are [records of the \*Joint Managing Directors' Meetings from 1975](http://www.digitalarchives.bt.com/Calmview/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=BTA%2f3+BT1%2f11+RES%2fRES8%2f13%2f8). T\*hese were essentially a series of regular, ad hoc meetings on the development of System X held between senior management in the Post Office, usually involving primary commercial suppliers (GEC, Plessey, STC).
+System X project’s tortured genesis is clear from some of the archive material. There are [records of the Joint Managing Directors' Meetings from 1975](http://www.digitalarchives.bt.com/Calmview/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=BTA%2f3+BT1%2f11+RES%2fRES8%2f13%2f8). These were essentially a series of regular, ad hoc meetings on the development of System X held between senior management in the Post Office, usually involving primary commercial suppliers (GEC, Plessey, STC).
 
 These meetings chart a project struggling under its own ambition. System X was unlike anything the Post Office had previously attempted. It was, in effect, a vast software programme at a time when large-scale software engineering was still poorly understood. Control of the network depended on hundreds of thousands of lines of code written concurrently by multiple organisations, each with their own commercial interests, working practices and internal politics. Unsurprisingly, coordination proved difficult.
 
