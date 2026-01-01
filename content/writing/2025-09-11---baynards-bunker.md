@@ -82,7 +82,7 @@ While on aesthetic grounds, Baynard House’s death sentence is deeply deserved,
 
 To learn more, I visited the archives a couple of times over the past year or so, and dug up and read through as much as I could on the topic. Here’s a photo of what the archives look like.
 
-![BT Archives - interior view](/media/baynards-bunker-6.jpg)
+![BT Archives - interior view](/media/baynards-bunker-6.jpeg)
 
 The bulk of the documents held in the archive about Baynard House are exchanges of letters and memos from Post Office managers and executives. Almost none of them reference the building’s architecture, and I found no evidence of correspondence with the architects or engineers during the building’s construction.
 
@@ -227,9 +227,9 @@ With these wranglings ongoing, the Fleet collection closed to the public in Sept
 
 Mondial House didn’t seem to the BT executives at the time like a real solution. A standalone building outside of an exchange seems never to have been considered.
 
-One set of meeting minutes in the archive, from September 1974, state that \*\*security issues, a lack of toilet facilities and acceptable fire exits, stand against the museum being opened there. Instead, the chairman “would consider whether the Museum could be accommodated in any other ETE [end to end exchange] building in Central London and would advise… accordingly”.
+One set of meeting minutes in the archive, from September 1974, state that "security issues", a lack of toilet facilities and acceptable fire exits, stand against the museum being opened there. Instead, the chairman “would consider whether the Museum could be accommodated in any other ETE [end to end exchange] building in Central London and would advise… accordingly”.
 
-*T*he possibility of Mondial House as a venue is dead as of late 1974, at which point Post Office people went back to the Science Museum for advice.
+\*The possibility of Mondial House as a venue is dead as of late 1974, at which point Post Office people went back to the Science Museum for advice.
 
 In a memo from June 1977, The Institution of Post Office Electrical Engineers (IPOEE) - a semi-independent organisation representing engineers’ interests, which would manage and co-ordinate the museums, suggests topic has become a company joke: “You will no doubt be aware that the subject of a telecommunications museum is mentioned in various Post Office circles from time to time.” \*\*Nevertheless, the IPOEE set up a committee to discuss the matter. They approached the PO and got a favourable response.
 
