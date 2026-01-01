@@ -11,7 +11,7 @@ tags:
 description: "How did London's ugliest building ever get built?"
 ---
 
-Baynard House, for me at least, the ugliest building in London, is to be redeveloped. The [masterplan document](https://www.notion.so/Baynard-s-Bunker-1e4e20468ece4dcc974dee147980f575?pvs=21) for its replacement is a bit unambitious, but thankfully involves full demolition of the old building.
+When I found out that Baynard House is to be redeveloped, I was glad. This is because I think it's the ugliest building in London. The [masterplan document](https://www.notion.so/Baynard-s-Bunker-1e4e20468ece4dcc974dee147980f575?pvs=21) for its replacement is a bit unambitious, but I was glad to see it involved the full demolition of the old building.
 
 The building was once [described](https://manchesterhistory.net/architecture/1970/baynardhouse.html) by _Pevsner Architectural Guides_ as “acutely depressing”. George Ferguson of the Royal Institute of British Architects [said](https://www.flickr.com/photos/another-partial-success/2940911958/) it’s "more akin to a car park than an office building”.
 
@@ -229,7 +229,7 @@ Mondial House didn’t seem to the BT executives at the time like a real solutio
 
 One set of meeting minutes in the archive, from September 1974, state that "security issues", a lack of toilet facilities and acceptable fire exits, stand against the museum being opened there. Instead, the chairman “would consider whether the Museum could be accommodated in any other ETE [end to end exchange] building in Central London and would advise… accordingly”.
 
-\*The possibility of Mondial House as a venue is dead as of late 1974, at which point Post Office people went back to the Science Museum for advice.
+The possibility of Mondial House as a venue is dead as of late 1974, at which point Post Office people went back to the Science Museum for advice.
 
 In a memo from June 1977, The Institution of Post Office Electrical Engineers (IPOEE) - a semi-independent organisation representing engineers’ interests, which would manage and co-ordinate the museums, suggests topic has become a company joke: “You will no doubt be aware that the subject of a telecommunications museum is mentioned in various Post Office circles from time to time.” \*\*Nevertheless, the IPOEE set up a committee to discuss the matter. They approached the PO and got a favourable response.
 
@@ -267,16 +267,10 @@ On December 8th 1977, the clearest hint of all is in this memo, discussing the f
 
 When constructing this concrete eyesore, with its narrow recessed windows, lack of street frontage and bunker-like atmosphere, the men responsible were less concerned about prettiness and permeability than the real possibility that it might be attacked by bombs.
 
-Baynard House wasn’t built as an act of vandalism; instead, it was meant to house the future. Unfortunately, it got built at the fag-end of a trend towards Brutalism in civic buildings, in an acutely economically depressed time, by an organisation in the throes of getting sold off, and by people with a (well-grounded) fear of getting bombed. Hence, the “acutely depressing” bunker. A building built to protect its contents from a hostile world; correspondingly, it presents a hostile face fo the world.
+Baynard House wasn’t built as an act of vandalism; instead, it was meant to house the future. Unfortunately, it got built at the fag-end of a trend towards Brutalism in civic buildings, in an acutely economically depressed time, by an organisation in the throes of getting sold off, and by people with a (well-grounded) fear of getting bombed.
 
-That final factor - of fear - is the critical one. That fear will mean, when Baynard House is decommissioned as an exchange in 2028, and when demolition proceeds shortly afterwards, nobody will mourn its loss.
+That final factor - of fear - is the critical one. That fear influenced the construction of an “acutely depressing” bunker. A building that was built to protect its contents from a potentially hostile world; correspondingly, it presents a hostile face to the world. This in turn means that, when Baynard House is decommissioned as an exchange in 2028, and when demolition proceeds shortly afterwards, nobody will mourn its loss.
 
-The plaque at the base of the Richard Kindersley sculpture quotes Shakespeare’s _As You Like It_. Its seven stacked heads represent the seven ages of man. The final head is a smirking skull, representing…
+The plaque at the base of the Richard Kindersley sculpture quotes Shakespeare’s _As You Like It_. Its seven stacked heads represent the seven ages of man. The final head is a smirking skull. It represents:
 
-> _Last scene of all,_
->
-> _That ends this strange eventful history,_
->
-> _Is second childishness and mere oblivion,_
->
-> _Sans teeth, sans eyes, sans taste, sans everything._
+> _Last scene of all,_ > _That ends this strange eventful history,_ > _Is second childishness and mere oblivion,_ > _Sans teeth, sans eyes, sans taste, sans everything._
