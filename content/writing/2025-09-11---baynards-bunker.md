@@ -29,28 +29,28 @@ Its spectacularly prominent site is also historically significant. It was called
 
 It was built at a different time. I hope such an eyesore in such a prominent place wouldn’t be approved today.
 
-![Queen Victoria Street, pre-Baynard House](baynards-bunker-1.png)
+![Queen Victoria Street, pre-Baynard House](/media/baynards-bunker-1.png)
 _Image source: [Skyscrapercity](https://www.skyscrapercity.com/threads/puddle-dock-city-of-london-pre-planning.2399067/page-5#replies)_
 
 Here’s a before and after. Some handsome but nondescript slices of Victorian wedding cake (on the right of the image above) was replaced with… this, on the right below. The square white tower of the Faraday Building (centre), one of the first telephone exchanges in the UK, is one of the few points of commonality between the two scenes.
 
-![Queen Victoria Street, post-Baynard House](baynards-bunker-2.png)
+![Queen Victoria Street, post-Baynard House](/media/baynards-bunker-2.png)
 
 _Image source: [Skyscrapercity](https://www.skyscrapercity.com/threads/puddle-dock-city-of-london-pre-planning.2399067/page-5#replies)_
 
 To see the extent of the demolition, and the prominence of the riverside location, here’s a construction image. Baynard House takes up the entire section to the left of the S-bend road sloping down to the river.
 
-![Baynard House, aerial view pre-construction](baynards-bunker-3.png)
+![Baynard House, aerial view pre-construction](/media/baynards-bunker-3.png)
 _Image source: [Skyscrapercity](https://www.skyscrapercity.com/threads/puddle-dock-city-of-london-pre-planning.2399067/page-5#replies)_
 
 Here’s a view of present-day Baynard House from the river (taken from the Millennium Bridge).
 
-![Baynard House, river view](baynards-bunker-4.png)
+![Baynard House, river view](/media/baynards-bunker-4.png)
 _Image source: [Wiki commons](https://en.wikipedia.org/wiki/Baynard_House,_London#/media/File:Baynard_House_03.jpg)_
 
 Things get even uglier on the other side of the building. An upstairs seating area is adorned with a bizarre sculpture: a totem pole of decapitated heads by sculptor Richard Kindersley, representing the seven ages of man. In my many visits to this transfixingly horrible space over the years, none of the benches have ever been occupied.
 
-![Baynard House, interior view with Kindersley sculpture](baynards-bunker-5.jpg)
+![Baynard House, interior view with Kindersley sculpture](/media/baynards-bunker-5.jpg)
 
 The ‘Main Entrance’ to the building is just inside the dark portal next to the public square. It still sports a BT logo, one of the few signals there is life (and telecom workers, and exchange equipment) inside. No part of the internal building is visible through its ungenerous, blacked-out windows. Two defensive A4 paper notes were stuck next to the door, as further evidence:
 
@@ -82,7 +82,7 @@ While on aesthetic grounds, Baynard House’s death sentence is deeply deserved,
 
 To learn more, I visited the archives a couple of times over the past year or so, and dug up and read through as much as I could on the topic. Here’s a photo of what the archives look like.
 
-![BT Archives - interior view](baynards-bunker-6.jpg)
+![BT Archives - interior view](/media/baynards-bunker-6.jpg)
 
 The bulk of the documents held in the archive about Baynard House are exchanges of letters and memos from Post Office managers and executives. Almost none of them reference the building’s architecture, and I found no evidence of correspondence with the architects or engineers during the building’s construction.
 
@@ -104,7 +104,7 @@ Aesthetics aren’t referenced at all, naturally.
 
 The new Baynard House was the first exchange to host digital switching technology, as part of a project called System X. It’s this fact that is the focus of the coverage. The building opened in September 11th 1980, and an image from the press conference there is below.
 
-![Baynard House - opening, September 1980](baynards-bunker-7.jpeg)
+![Baynard House - opening, September 1980](/media/baynards-bunker-7.jpeg)
 _Image source: BT Archive_
 
 Peter Benton, Managing Director of British Telecom, said of the launch:
@@ -121,7 +121,7 @@ This digital switching system was known as System X, and was a joint venture fro
 
 It was nothing less than “the key to our future”, as one internal BT leaflet had it.
 
-![system x booklet.jpeg](baynards-bunker-8.jpeg)
+![system x booklet.jpeg](/media/baynards-bunker-8.jpeg)
 _Image source: BT Archive_
 
 The improved digital technology did have some built-in benefits. First and foremost, increased reliability (separate BT communications of the time boast about connections being “noise free”). But it also made possible feature advances like abbreviated dialling using a short code and three-way phone conversations.
@@ -148,7 +148,7 @@ These meetings chart a project struggling under its own ambition. System X was u
 
 Handovers were frequent - and frequently delayed. One set notes headed LIST OF SLIPPED INTERCHANGES (SLIP IN BRACKETS IN WEEKS) are particularly brutal. For example, one “cause of slip” is simply “lack of effort”. The effect of the slip is “delays integration”. The action for the project team is: “Integration strategy revised and steps being taken by PTL to increase effectiveness of the Liverpool software staff.” Plessey is based in Liverpool, and presumably some unfortunate staff got pulled away for a punishment beating.
 
-![System X exchange at Baynard House, 1980](baynards-bunker-9.png)
+![System X exchange at Baynard House, 1980](/media/baynards-bunker-9.png)
 _System X circuit boards (at Baynard House!) Image source: BT Archive_
 
 The blame game extended up the management chain. Managing director Benton is revealed in these memos as having profound doubts about the programme’s success. In a [1978 note](https://www.digitalarchives.bt.com/CalmView/Record.aspx?src=CalmView.Catalog&id=BTA%2f3+BT1%2f1+GOV%2fGOV1%2f2%2f2%2f10%2f51&pos=1) titled 'Progress with System X’, signed by a “PFB” (Benton’s [middle name was “Faulkner”](https://prabook.com/web/peter.benton/1298738), so it’s surely him), a low seems to have been reached. The cause is the _software_:
