@@ -11,7 +11,7 @@ tags:
 description: "How did London's ugliest building ever get built?"
 ---
 
-When I found out that Baynard House is to be redeveloped, I was glad. This is because I think it's the ugliest building in London. The [masterplan document](https://www.notion.so/Baynard-s-Bunker-1e4e20468ece4dcc974dee147980f575?pvs=21) for its replacement is a bit unambitious, but I was glad to see it involved the full demolition of the old building.
+When I found out that Baynard House is to be redeveloped, I was glad. This is because I think it's the ugliest building in London.
 
 The building was once [described](https://manchesterhistory.net/architecture/1970/baynardhouse.html) by _Pevsner Architectural Guides_ as “acutely depressing”. George Ferguson of the Royal Institute of British Architects [said](https://www.flickr.com/photos/another-partial-success/2940911958/) it’s "more akin to a car park than an office building”.
 
@@ -146,7 +146,7 @@ System X project’s tortured genesis is clear from some of the archive material
 
 These meetings chart a project struggling under its own ambition. System X was unlike anything the Post Office had previously attempted. It was, in effect, a vast software programme at a time when large-scale software engineering was still poorly understood. Control of the network depended on hundreds of thousands of lines of code written concurrently by multiple organisations, each with their own commercial interests, working practices and internal politics. Unsurprisingly, coordination proved difficult.
 
-Handovers were frequent - and frequently delayed. One set notes headed LIST OF SLIPPED INTERCHANGES (SLIP IN BRACKETS IN WEEKS) are particularly brutal. For example, one “cause of slip” is simply “lack of effort”. The effect of the slip is “delays integration”. The action for the project team is: “Integration strategy revised and steps being taken by PTL to increase effectiveness of the Liverpool software staff.” Plessey is based in Liverpool, and presumably some unfortunate staff got pulled away for a punishment beating.
+Handovers were frequent - and frequently delayed. One set of project update notes headed LIST OF SLIPPED INTERCHANGES (SLIP IN BRACKETS IN WEEKS) are particularly brutal. For example, one “cause of slip” is simply “lack of effort”. The effect of the slip is “delays integration”. The action for the project team is: “Integration strategy revised and steps being taken by PTL to increase effectiveness of the Liverpool software staff.” Plessey is based in Liverpool, and presumably some unfortunate staff got pulled away for a punishment beating.
 
 ![System X exchange at Baynard House, 1980](/media/baynards-bunker-9.png)
 _System X circuit boards (at Baynard House!) Image source: BT Archive_
