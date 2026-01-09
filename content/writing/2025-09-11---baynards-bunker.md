@@ -181,13 +181,13 @@ Barlow sent out a memo that ratcheted the pressure up still further, as well as 
 
 You can see some of this press scepticism in pre-submitted questions to Barlow from an “Industrial Correspondents lunch” later in 1979, which include:
 
-> _How is System X developing? Are’nt(sic) you so far behind, that very very few markets are left open to you?_
+> How is System X developing? Are’nt(sic) you so far behind, that very very few markets are left open to you?
 
 The demonstration at TELECOM ‘79 turned out to a success, and Barlow later recalled feeling that “The Brits are back! [It was a] final launchpad for the system.”
 
 Even after this success and ahead of the launch, worries persisted - this time about strikes. Benton grumbles that “since the demonstration the industrial relations problems have flared up in a way which is likely to have a serious effect on completion of the work for the Geneva model”. (It was the winter after the [Winter of Discontent](https://www.historyextra.com/period/20th-century/winter-of-discontent-causes-what-happened-meaning/), after all.) Meanwhile, a Plessey executive wrote:
 
-> _I… have instituted an action programme identifying transfers of specific skills from lesser priority tasks while at the same time attempting to improve our recruiting success rate. This should allow the key dates for Baynard House to be maintained, provided we do not meet with Union resistance on the Liverpool site._
+> I… have instituted an action programme identifying transfers of specific skills from lesser priority tasks while at the same time attempting to improve our recruiting success rate. This should allow the key dates for Baynard House to be maintained, provided we do not meet with Union resistance on the Liverpool site.
 
 Evidently, these didn’t knock the launch too far off course. “Baynard House” was built. The System X exchange housed within its hideous concrete walls became operational. Given the pressures around the project, and its potentially existential impact on the organisation, it’s understandable that architectural quality wasn’t top of mind for BT executives like Benton and Barlow.
 
@@ -231,11 +231,7 @@ Mondial House didn’t seem to the BT executives at the time like a real solutio
 
 One set of meeting minutes in the archive, from September 1974, state that "security issues", a lack of toilet facilities and acceptable fire exits, stand against the museum being opened there. Instead, the chairman “would consider whether the Museum could be accommodated in any other ETE [end to end exchange] building in Central London and would advise… accordingly”.
 
-The possibility of Mondial House as a venue is dead as of late 1974, at which point Post Office people went back to the Science Museum for advice.
-
-In a memo from June 1977, The Institution of Post Office Electrical Engineers (IPOEE) - a semi-independent organisation representing engineers’ interests, which would manage and co-ordinate the museums, suggests topic has become a company joke: “You will no doubt be aware that the subject of a telecommunications museum is mentioned in various Post Office circles from time to time.” \*\*Nevertheless, the IPOEE set up a committee to discuss the matter. They approached the PO and got a favourable response.
-
-It’s not clear whether this committee led to Baynard House coming to the fore as a candidate for hosting the museum. But, by November of that year, a letter to Cadbury from a “K Ford” states:
+The possibility of Mondial House as a venue is dead as of late 1974. The Post Office went back to Science Museum and a committee organised by The Institution of Post Office Electrical Engineers (IPOEE) - a semi-independent organisation representing engineers’ interests - for advice. It's not clear from the documents I saw which of these, if either, led to Baynard House coming to the fore as a candidate for hosting the museum. But, by November 1977, a letter to Cadbury from a “K Ford” states:
 
 > [a] unique chance to establish the National Telecommunications Museum in an excellent location, at minimum cost and with no security risk to operational service has arisen in the Baynard House project. The opportunity has arisen from a lease condition, placed on the PO by the City of London as site owners, to provide suitable accommodation in Baynard House to rehouse the London Auction Mart (LAM) whose premises formed a part of the development site until they were compulsarily acquired by the City.
 
