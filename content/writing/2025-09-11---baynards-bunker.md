@@ -13,9 +13,9 @@ description: "How did London's ugliest building ever get built?"
 
 When I found out that Baynard House is to be redeveloped, I was glad. This is because I think it's the ugliest building in London.
 
-The building was once [described](https://manchesterhistory.net/architecture/1970/baynardhouse.html) by _Pevsner Architectural Guides_ as “acutely depressing”. George Ferguson of the Royal Institute of British Architects [said](https://www.flickr.com/photos/another-partial-success/2940911958/) it’s "more akin to a car park than an office building”.
+This isn't a controversial view. Baynard House was [described](https://manchesterhistory.net/architecture/1970/baynardhouse.html) by _Pevsner Architectural Guides_ as “acutely depressing”. George Ferguson of the Royal Institute of British Architects [said](https://www.flickr.com/photos/another-partial-success/2940911958/) it’s "more akin to a car park than an office building”.
 
-Over the past year, I dedicated some time to finding out _how_ something so spectacularly ugly ever came to be, and got a partial answer to my question - detailed below.
+Over the past year, I dedicated some time to finding out _how_ something so spectacularly ugly ever came to be. I only got a partial answer to my question, but it was fun trying to find the answers. I've summarised what I learned below.
 
 ### The Construction
 
@@ -62,7 +62,7 @@ And:
 
 In sum, has a building ever been more unwelcoming? Despite being in early middle age, Baynard House is delapidated, pointless, begging for an unmourned death.
 
-The site has been subject to [a few design proposals](https://www.notion.so/Baynard-s-Bunker-1e4e20468ece4dcc974dee147980f575?pvs=21) over recent years, the current proposal hasn’t made it through the planning system yet. Baynard House will stand for a few years more.
+What will replace Baynard House? There have been a few design proposals over recent years, [the latest of which]([https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf](https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf) is still at the planning stage. Baynard House will stand for a couple more years. But it will almost certainly not survive much longer.
 
 ### The sell-off
 
@@ -74,7 +74,7 @@ Lisa explained that, in the late 1990s, BT sold its exchanges to a property inve
 
 So, to lessen the financial burden, BT is prioritising the decommissioning and exiting of high cost sites. Kinch says that Baynard House, with its spectacularly prominent location, is close to the top of the list, and will close by 2028. In all, 108 BT buildings are scheduled to close by 2031 (the Archives and the Holborn exchange I mention in the next section are in a latter phase but will be gone by then, too).
 
-Few to none of the old exchanges will be listed or saved, which Kinch thinks is a shame. But the brutal reality - which she also acknowledges - is that these are generally unlovely industrial buildings, built in a hurry and difficult to adapt to become homes or offices.
+Few to none of the old exchanges will be listed or saved, which Kinch thinks is a shame. But the brutal reality - which she also acknowledges - is that these are generally unlovely industrial buildings that were built in a hurry. They're difficult to adapt to become homes or offices. In a few years, many will be gone.
 
 ### The Archives
 
@@ -88,7 +88,7 @@ The bulk of the documents held in the archive about Baynard House are exchanges 
 
 The standout ugliness of the building - the most arresting thing about it today - wasn’t a concern for these BT executives. Or at least, wasn’t a concern worthy of being detailed in a memo.
 
-Instead, the correspondence focuses on more pressing issues. First and foremost, the then-revolutionary exchange equipment contained in the building, and a public museum hosted by the building.
+Instead, the correspondence focuses on more pressing issues. First and foremost, the then-revolutionary exchange equipment contained in the building.
 
 ### The Exchange
 
@@ -199,7 +199,9 @@ I didn’t find any smoking guns on this in my remaining archival researches. Bu
 
 In the first few years of its existence, Baynard House served another function. The Post Office Telecommunications Museum was hosted by Baynard House and was open between 1982 and 1997, after which I assume the general public have never been admitted to the building.
 
-It wasn’t the first choice. A [letter from EW Weaver to FE Jones](http://www.digitalarchives.bt.com/Calmview/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=BTA%2f3+BT1%2f2+CEN%2fCEN2%2f13%2f523) (director of operational planning) from 1967, pointed out that the exhibition “currently at Fleet” (an office in Shoe Lane, City of London) will be closed and not continued in premises elsewhere. The collection - put together years earlier as part of the Telegraph Centenary celebrations - was due to move out of Fleet in 1973, so they needed to plan the move. With only 400 people per week visiting the exhibit, there wasn’t a sense of urgency around the move.
+The museum had been without a home for 11 years before that, and the correspondence around its establishment is riddled with concerns about money - and security.
+
+A [letter from EW Weaver to FE Jones](http://www.digitalarchives.bt.com/Calmview/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=BTA%2f3+BT1%2f2+CEN%2fCEN2%2f13%2f523) (director of operational planning) from 1967, pointed out that the exhibition “currently at Fleet” (an office in Shoe Lane, City of London) will be closed and not continued in premises elsewhere. The collection - put together years earlier as part of the Telegraph Centenary celebrations - was due to move out of Fleet in 1973, so they needed to plan the move. With only 400 people per week visiting the exhibit, there wasn’t a sense of urgency around the move.
 
 The Post Office executives [actively searched for another location over the following years](https://www.digitalarchives.bt.com/CalmView/Record.aspx?src=CalmView.Catalog&id=BTA%2f3+BT1%2f2+CEN%2fCEN2%2f13%2f523&pos=1). (Professor) JHH Merriman, a Board member for technology and Senior Director for Development, wrote in a memo in January 1968 that the recently-constructed [Post Office Tower](https://londonist.com/london/history/a-brief-history-of-the-bt-tower) might serve that purpose:
 
