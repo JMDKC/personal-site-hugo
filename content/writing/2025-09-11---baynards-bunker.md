@@ -62,7 +62,7 @@ And:
 
 In sum, has a building ever been more unwelcoming? Despite being in early middle age, Baynard House is delapidated, pointless, begging for an unmourned death.
 
-What will replace Baynard House? There have been a few design proposals over recent years, [the latest of which]([https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf](https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf) is still at the planning stage. Baynard House will stand for a couple more years. But it will almost certainly not survive much longer.
+What will replace Baynard House? There have been a few design proposals over recent years, [the latest of which]([https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf) is still at the planning stage. Baynard House will stand for a couple more years. But it will almost certainly not survive much longer.
 
 ### The sell-off
 
