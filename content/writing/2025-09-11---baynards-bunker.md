@@ -19,15 +19,11 @@ Over the past year, I dedicated some time to finding out _how_ something so spec
 
 ### The Construction
 
-Baynard House was built in order to house some then-revolutionary telephone exchange technology. It’s a lot emptier these days, but still contains some of its original kit, which is still (just about) operational.
+Baynard House was built for the government-owned Post Office, between 1972 and 1979. Designed by William Holford & Associates and constructed by partners including Ove Arup and John Laing, it began operations in 1980. Just around then, the incoming Thatcher government separated the Post Office and British Telecom - which has since been privatised and has rebranded as BT. (I’ll refer to it by that name throughout this post for brevity’s sake - though some of the people I quote will use “PO”, meaning “Post Office”. We all mean the same organisation.)
 
-It was built by a government-owned Post Office, between 1972 and 1979. Designed by William Holford & Associates and constructed by partners including Ove Arup and John Laing, it began operations in 1980. Just around then, the incoming Thatcher government separated the Post Office and British Telecom - which has since been privatised and has rebranded as BT. (I’ll refer to it by that name throughout this post for brevity’s sake - though some of the people I quote will use “PO”, meaning “Post Office”. We all mean the same organisation.)
+When it was opened, Baynard House housed some then-revolutionary telephone exchange technology. From 1982 to 1997, it hosted th BT museum. Its considerable floorspace was never used to its full capacity. And it’s a lot emptier these days, though its original exchange kit is still (just about) operational.
 
-On one side of Baynard House is Queen Victoria Street in the City of London. On the other is the river Thames. On the other side of the river is the main viewing gallery of the Tate Modern, which means thousands of visitors a day get to gawp at this sorry, low-slung, clapped-out concrete mass, their views partially ruined.
-
-Its spectacularly prominent site is also historically significant. It was called Baynard House because it’s on the same spot as Baynard’s Castle, a medieval palace that was destroyed in the great fire of 1666.
-
-It was built at a different time. I hope such an eyesore in such a prominent place wouldn’t be approved today.
+Baynard House's spectacularly prominent location sharpens its ugliness. It's built on the point where the old river Fleet (now buried) met the walls of the City of London and the Thames. There used to be a medieval palace there, Baynard's Castle, which was destroyed in the great fire of 1666. It's now on Queen Victoria Street, next to the river. On the other side of the river is the main viewing gallery of Tate Modern, which means thousands of visitors a day have their photos ruined by this sorry, low-slung, clapped-out concrete bunker.
 
 ![Queen Victoria Street, pre-Baynard House](/media/baynards-bunker-1.png)
 _Image source: [Skyscrapercity](https://www.skyscrapercity.com/threads/puddle-dock-city-of-london-pre-planning.2399067/page-5#replies)_
