@@ -23,12 +23,12 @@ Baynard House was built for the government-owned Post Office, between 1972 and 1
 
 When it was opened, Baynard House housed some then-revolutionary telephone exchange technology. From 1982 to 1997, it hosted a small museum, open to the public. But the building's considerable floorspace was never used to its full capacity. And it’s a lot emptier these days, though its original exchange kit is still (just about) operational.
 
-Baynard House's spectacularly prominent location sharpens its ugliness. It's built on the point where the old river Fleet (now buried) met the walls of the City of London and the Thames. There used to be a medieval palace there, Baynard's Castle, which was destroyed in the great fire of 1666. It's now on Queen Victoria Street, next to the river. On the other side of the river is the main viewing gallery of Tate Modern, which means thousands of visitors a day have their photos ruined by this sorry, low-slung, clapped-out concrete bunker.
+Baynard House's spectacularly prominent location sharpens its ugliness. It's on Queen Victoria Street, next to the river. On the other side of the river is the main viewing gallery of Tate Modern, which means thousands of visitors a day have their photos ruined by this sorry, low-slung, clapped-out concrete bunker. It's built near the point where the old river Fleet (now buried) met the walls of the City of London and the Thames. There used to be a medieval palace there, Baynard's Castle, which was destroyed in the great fire of 1666.
 
 ![Queen Victoria Street, pre-Baynard House](/media/baynards-bunker-1.png)
 _Image source: [Skyscrapercity](https://www.skyscrapercity.com/threads/puddle-dock-city-of-london-pre-planning.2399067/page-5#replies)_
 
-Here’s a before and after. Some handsome but nondescript slices of Victorian wedding cake (on the right of the image above) was replaced with… this, on the right below. The square white tower of the Faraday Building (centre), one of the first telephone exchanges in the UK, is one of the few points of commonality between the two scenes.
+Here’s a before and after. In a photo taken just before construction of Baynard House started, you can see some handsome but nondescript Victoriana (on the right of the image above). Which was replaced with… this, on the right below. The square white tower of the Faraday Building (centre), one of the first telephone exchanges in the UK, is one of the few points of commonality between the two scenes.
 
 ![Queen Victoria Street, post-Baynard House](/media/baynards-bunker-2.png)
 
