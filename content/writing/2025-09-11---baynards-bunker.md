@@ -261,7 +261,7 @@ On December 8th 1977, the clearest hint of all is in this memo, discussing the f
 
 When constructing this concrete eyesore, with its narrow recessed windows, lack of street frontage and bunker-like atmosphere, the men responsible were less concerned about prettiness and permeability than the real possibility that it might be attacked by bombs.
 
-Baynard House wasn’t built as an act of vandalism; instead, it was meant to house the future. Unfortunately, it got built at the fag-end of a trend towards Brutalism in civic buildings, in an acutely economically depressed time, by an organisation in the throes of getting sold off, and by people with a (well-grounded) fear of getting bombed.
+Baynard House wasn’t built as an act of vandalism; instead, it was meant to house the future. Unfortunately, it got built at the fag-end of a Brutalist trend of using unadorned concrete in office buildings, in an acutely economically depressed time, by an organisation in the throes of getting sold off, and by people with a (well-grounded) fear of getting bombed.
 
 That final factor - of fear - is the critical one. That fear influenced the construction of an “acutely depressing” bunker. A building that was built to protect its contents from a potentially hostile world; correspondingly, it presents a hostile face to the world. This in turn means that, when Baynard House is decommissioned as an exchange in 2028, and when demolition proceeds shortly afterwards, nobody will mourn its loss.
 
