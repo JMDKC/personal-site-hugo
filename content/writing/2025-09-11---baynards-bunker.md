@@ -60,7 +60,7 @@ In sum, has a building ever been more unwelcoming? Despite being in early middle
 
 What will replace Baynard House? There have been a few design proposals over recent years, [the latest of which]([https://puddledockmasterplan.co.uk/wp-content/uploads/2023/07/Puddle-Dock-Masterplan-Boards-FINAL.pdf) is still at the planning stage. Baynard House will stand for a couple more years. But it will almost certainly not survive much longer.
 
-### The sell-off
+### The Selloff
 
 I’d been obscurely intrigued by this ugly building for years. I found out that it was doomed via Lisa Kinch, a Swedish architect who has been [documenting British telephone exchanges](https://www.instagram.com/tele_exchange/) as [part of her PhD project](https://www.msa.ac.uk/study/researchdegrees/students/lisa-kinch/).
 
@@ -126,7 +126,7 @@ More revolutionary benefits were to come. System X was intended to, as the press
 
 > …form the basis of a new digital ‘grid’ that will link the main population centres of the country before the end of the decade… this new grid will become a high-speed multi-purpose communication network bringing the benefits and facilities of System X to the nation’s business community at the earliest possible date.
 
-In here we can see the very early stirrings of the home internet that would become ubiquitous in future decades. A [1980s booklet for BT staff](https://www.digitalarchives.bt.com/CalmView/Record.aspx?src=CalmView.Catalog&id=BTA%2f3+BT1%2f13+COM%2fCOM7%2f9%2fEHA+2753&pos=1), listing the benefits of the service, imagines a System X-enabled “office of the future”, in which we will have “multi-function business terminals, enabling simultaneous transmission of voice and ‘non-voice’”, “electronic mail” and “an integrated paperless system for data acquisition and all usual functions”.
+In here we can see the very early stirrings of the home internet that would become ubiquitous in future decades. And, beyond the home, a [1980s booklet for BT staff](https://www.digitalarchives.bt.com/CalmView/Record.aspx?src=CalmView.Catalog&id=BTA%2f3+BT1%2f13+COM%2fCOM7%2f9%2fEHA+2753&pos=1), listing the benefits of the service, imagines a System X-enabled “office of the future”, in which we will have “multi-function business terminals, enabling simultaneous transmission of voice and ‘non-voice’”, “electronic mail” and “an integrated paperless system for data acquisition and all usual functions”.
 
 So, what actually happened? From a promising start, System X didn’t fulfil the high hopes placed in it.
 
