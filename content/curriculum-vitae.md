@@ -15,7 +15,7 @@ slug: "/curriculum-vitae"
 
 Which? is the UK’s consumer champion. Working in a product and technology team based on the Spotify scaled agile framework, my responsibilities include:
 
-- Leading on process improvement for our product & technology teams, improving organisational agility and line managing our growing team of Delivery Managers at Which?.
+- Line managing our growing team of Delivery Managers.
 - Delivering complex technical initiatives involving our product squads by showing strong leadership, effective communication and a proactive approach to problem solving. Recently, these have included a replatforming of our CRM systems and a company-wide rebrand.
 - Leading change on process improvements, which have included an overhaul of our incident management and risk practices, collaborating with partners around the business (SecOps, PMO, Risk/Audit).
 - Being a primary point of escalation where support from the product team is required in more challenging deployments.

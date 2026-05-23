@@ -80,7 +80,7 @@ To learn more, I visited the archives a couple of times over the past year or so
 
 ![BT Archives - interior view](/media/baynards-bunker-6.jpeg)
 
-The bulk of the documents held in the archive about Baynard House are exchanges of letters and memos from Post Office managers and executives. Almost none of them reference the building’s architecture, and I found no evidence of correspondence with the architects or engineers during the building’s construction.
+The bulk of the documents held in the archives about Baynard House are exchanges of letters and memos from Post Office managers and executives. Almost none of them reference the building’s architecture, and I found no evidence of correspondence with the architects or engineers during the building’s construction.
 
 The standout ugliness of the building - the most arresting thing about it today - wasn’t a concern for these BT executives. Or at least, wasn’t a concern worthy of being detailed in a memo.
 
