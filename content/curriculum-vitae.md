@@ -9,7 +9,7 @@ slug: "/curriculum-vitae"
 
 ### PROFILE
 
-Delivery lead with eight years of experience running technology programmes. I have a track record of taking on ambiguous, cross-functional problems and building lightweight governance, risk, progress reporting and team structures needed to solve them at pace. I routinely operate as an escalation point with Product, Engineering, SecOps, PMO and Risk/Audit teams. I treat delivery metrics (DORA, cycle time, error budgets) as a lever for team learning, not just a reporting obligation. I’m looking to take on a larger remit: owning delivery across a technology function, not just within it.
+Delivery lead with eight years of experience running technology programmes. I have a track record of taking on ambiguous, cross-functional problems and building lightweight governance, risk, progress reporting and team structures needed to solve them at pace. I routinely operate as an escalation point with Product, Engineering, SecOps, PMO and Risk/Audit teams. I treat delivery metrics (DORA, cycle time, error budgets) as a lever for team learning, not just a reporting obligation.
 
 ### EXPERIENCE
 
